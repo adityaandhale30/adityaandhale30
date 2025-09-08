@@ -35,12 +35,9 @@ I'm a passionate Software Developer specializing in cross-platform mobile app de
   - Built Avion: WebRTC-based real-time video calling app with payments, multi-language, and smooth UI/UX on Flutter + Firebase.
   - Integrated REST APIs, advanced animations, and agile collaboration for scalable, cross-platform solutions.
 
-- **Software Developer Mentor, Incubators Systems** (Jul 2024 - Nov 2024)
-  - Mentored 100+ students in Flutter, UI/UX, state management (GetX, Provider), REST APIs, and Agile practices.
-  - Led workshops, reviews, and improved delivery timelines by 40%.
-
 - **Software Developer Intern, Biencaps Systems** (Aug 2023 - Nov 2023)
   - Developed Flutter apps with Firebase and Sqflite for real-time and local data, robust state management, and responsive design.
+  - Flutter, UI/UX, state management (GetX, Provider), REST APIs, and Agile practices.
 
 ---
 
@@ -75,14 +72,14 @@ I'm a passionate Software Developer specializing in cross-platform mobile app de
 
 - Published open-source library on pub.dev ([link]())
 - Mobile App Development - The Complete Edition (Jul 2024 - Oct 2024)
-- 🥇 Winner: Super-x Hackethon2024 & National Spring Hackethon 2023
+- 🥇 Winner: Maze Runner Hackethon2024 & National Spring Hackethon 2023
 - Top 5% on LeetCode
 
 ---
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [your-link-here](#)
+- **LinkedIn:** [Aditya Andhale](https://www.linkedin.com/in/aditya-andhale-6a9403233)
 - **GitHub:** [adityaandhale30](https://github.com/adityaandhale30)
 - **Email:** adityaandhale.skn.entc@gmail.com
 - **Phone:** +91 7507904590
